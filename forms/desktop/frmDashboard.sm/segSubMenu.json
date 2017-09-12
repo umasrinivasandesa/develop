@@ -1,0 +1,130 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblMenuItemDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "External Contact Numbers"
+            },
+            "lblSeparatorLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": " "
+            }
+        },
+        {
+            "lblMenuItemDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Midwest Control Work Instructions"
+            },
+            "lblSeparatorLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": " "
+            }
+        },
+        {
+            "lblMenuItemDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Midwest Control Work Directives"
+            },
+            "lblSeparatorLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": " "
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "d67dbfc4ac794b9ab757055a395c71c5",
+    "groupcells": true,
+    "hasSections": false,
+    "id": "segSubMenu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "g411097f3ea84501ba2e9174b44d0387",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxCDSubMenu",
+    "pf": "frmDashboard",
+    "retainselection": false,
+    "rowTemplateId": "d67dbfc4ac794b9ab757055a395c71c5",
+    "rowcounter": 2,
+    "rowfocusskin": "s11f2b0be69943719754b9b2195ba05e",
+    "rowskin": "sd8653ccae26462cb97b5c14e6cf02e6",
+    "rowtemplate": "CopyFBox0ja7cfcecd54440",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sb3fc0d9543946228cb07e13188c695c",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxSubMenu": "flxSubMenu",
+        "lblMenuItemDesc": "lblMenuItemDesc",
+        "lblSeparatorLine": "lblSeparatorLine"
+    },
+    "widgetskin": "s9e15c816f194b6d88ff631f9e3d322c",
+    "zindex": 1
+}

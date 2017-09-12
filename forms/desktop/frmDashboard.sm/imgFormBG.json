@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2e6142f2f2a4f2fb22e0cec2b568222",
+    "_src_": "bg.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmDashboard",
+        "platform": "kiosk",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgFormBG",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "edd92daa33c843a38999e37ab8fe75c2",
+    "name": "kony.ui.Image2",
+    "parent": "flxBody",
+    "pf": "frmDashboard",
+    "srcType": 1,
+    "vizProps": {
+        "lock": true
+    },
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
